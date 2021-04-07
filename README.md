@@ -1,8 +1,6 @@
 # Vue.js 3 Essential Training
 This is the repository for the LinkedIn Learning course Vue.js 3 Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-testing 
-
 ![Vue.js 3 Essential Training][lil-thumbnail-url] 
 Vue.js offers developers a framework for building applications that lets them choose how deeply they want to apply the framework. In this course, instructor Ray Villalobos explores the fundamentals of Vue.js 3, then covers options for rendering, computing values, and creating components. Ray shows you how to install Vue.js 3 and set it up. He walks you through using templates, then goes into properties that enhance the way the library works. He discusses arrays and objects, as well as how to create dynamic classes with expressions. He goes into transitions, then steps you through creating components and component events. He demonstrates what you get when you install a project with the Vue CLI, including how to install the Vue Router. He shows you how to set up and build a real project, then goes into enhancing your app so you can feel more comfortable with the application API. In conclusion, Ray explains how to add new features to your application.
 
